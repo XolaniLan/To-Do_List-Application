@@ -11,5 +11,8 @@
   <li>CSS3</li>
   <li>JavaScript</li>
 </ul>
-![todolist](https://github.com/XolaniLan/To-Do_List-Application/assets/140137794/cdce822b-5340-4fa8-9e93-f3397e246e35)
+
+
+![todolist](https://github.com/XolaniLan/To-Do_List-Application/assets/140137794/22d1c003-255d-48ff-bbf0-c9f31b1b4944)
+
 
