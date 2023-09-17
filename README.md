@@ -4,11 +4,12 @@
 <ul>
   <li>Add tasks</li>
   <li>Delete tasks</li>
-</ul><br>
+</ul>
 <h2>Developed in: </h2>
 <ul>
   <li>HTML5</li>
   <li>CSS3</li>
   <li>JavaScript</li>
 </ul>
-![todolist](https://github.com/XolaniLan/To-Do_List-Application/assets/140137794/315db34f-2cc3-43b0-9b3e-9bced39bf155)
+![todolist](https://github.com/XolaniLan/To-Do_List-Application/assets/140137794/cdce822b-5340-4fa8-9e93-f3397e246e35)
+
